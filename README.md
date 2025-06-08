@@ -1,5 +1,5 @@
-# SkillSprint 🚀✨
-
+# SkillSprint
+![](https://raw.githubusercontent.com/TaqsBlaze/SkillSprint/refs/heads/main/docs/image/skill.png)
 **AI-Powered Career & Learning Path Guidance**
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
